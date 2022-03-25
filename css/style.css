@@ -3,19 +3,19 @@
 * This file contains the CSS for index.html
 */
 
-  .mdl-layout__content {
-    padding-left:  15pt;
-    padding-right:  15pt;
-    padding-top:  15pt;
-  }
-  
-  p {
-    color: black;
-    font-family: Helvetica, Arial, sans-serif;
-    font-size: 1.5rem;
-    padding-top: 10pt;
-  }
+.mdl-layout__content {
+  padding-left: 15pt;
+  padding-right: 15pt;
+  padding-top: 15pt;
+}
 
- body {
+p {
+  color: black;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.5rem;
+  padding-top: 10pt;
+}
+
+body {
   text-align: center;
 }
